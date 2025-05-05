@@ -1,4 +1,4 @@
-# BizzTrack Management System
+# BizzTrack Employee Management System
 
 BizzTrack is a full-stack web application designed to manage various aspects of a business, such as assets, employees, payroll, projects, and more. The project consists of a Node.js/Express backend with a MySQL database and a React frontend styled with Tailwind CSS.
 
